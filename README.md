@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anujthapa1
-- By the way I'm fromm nepal
-- 👀 I’m interested in everything that coding is o 
+- By the way I'm from nepal
+- 👀 I’m interested in everything that coding is on
 - 🌱 I’m currently learning ethical hacking
 - 📫 How to reach me 
 -  facebook- Anuj Thapa
