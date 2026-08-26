@@ -74,18 +74,6 @@ Below are selected public projects showcasing my development work:
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anujthapa1&show_icons=true&theme=dark&hide_border=false" alt="Anuj's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujthapa1&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujthapa1&theme=dark" alt="GitHub Streak" />
-</div>
-
----
 
 ## 📚 Learning Journey
 
