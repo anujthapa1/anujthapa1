@@ -31,6 +31,7 @@ I am a computing student based in Pokhara, Nepal, focused on software developmen
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -54,27 +55,30 @@ I am a computing student based in Pokhara, Nepal, focused on software developmen
 
 ## 🚀 Featured Projects
 
-Below are selected projects showcasing my development work:
+Below are selected public projects showcasing my development work:
 
-### 📌 Project Title 1
-- **Description:** A brief 1-2 sentence description of what this project does and the problem it solves.
-- **Technologies:** `Python`, `Tkinter`, `MySQL`
-- **Links:** [GitHub Repository](https://github.com/anujthapa1) | [Live Demo](#)
+### 📌 [bus_routes_advanced](https://github.com/anujthapa1/bus_routes_advanced)
+- **Description:** An advanced bus route management application for Pokhara, Nepal, featuring Google Maps API integration for routing, place autocomplete, and interactive maps.
+- **Technologies:** `TypeScript`, `Google Maps API`, `Web`
+- **Links:** [GitHub Repository](https://github.com/anujthapa1/bus_routes_advanced)
 
-### 📌 Project Title 2
-- **Description:** A brief 1-2 sentence description of what this project does and the problem it solves.
-- **Technologies:** `JavaScript`, `React`, `CSS`
-- **Links:** [GitHub Repository](https://github.com/anujthapa1) | [Live Demo](#)
+### 📌 [bus_routes](https://github.com/anujthapa1/bus_routes)
+- **Description:** An open-source map and guide for local bus routes in Nepal. Features interactive route tracking, a fare calculator based on DoTM scientific rates, and local transit navigation.
+- **Technologies:** `TypeScript`, `Maps API`, `JavaScript`
+- **Links:** [GitHub Repository](https://github.com/anujthapa1/bus_routes)
 
-*(More projects currently in development. Repositories will be updated as features are finalized.)*
+### 📌 [cvanuj](https://github.com/anujthapa1/cvanuj)
+- **Description:** A clean, responsive online curriculum vitae showcasing personal academic background, skills, and projects.
+- **Technologies:** `HTML`, `CSS`, `JavaScript`
+- **Links:** [GitHub Repository](https://github.com/anujthapa1/cvanuj)
 
 ---
 
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anujthapa1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Anuj's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujthapa1&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anujthapa1&show_icons=true&theme=dark&hide_border=false" alt="Anuj's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujthapa1&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -87,7 +91,7 @@ Below are selected projects showcasing my development work:
 
 I prioritize continuous learning to keep pace with evolving technical standards:
 
-- **Languages:** Refining algorithmic problem solving in **Python** and **Java**.
+- **Languages:** Refining algorithmic problem solving in **Python**, **TypeScript**, and **Java**.
 - **Web Development & React:** Transitioning from static sites to modular, state-managed **React** applications.
 - **Databases:** Structuring relational schemas and optimizing SQL queries in **MySQL**.
 - **Cybersecurity:** Studying system vulnerabilities, network security basics, and safe application design.
@@ -97,10 +101,11 @@ I prioritize continuous learning to keep pace with evolving technical standards:
 
 ## 📬 Connect With Me
 
-- **Website:** [thapaanuj.com.np](https://thapaanuj.com.np)
+- **Website:** [thapaanuj.com.np](https://thapaanuj.com.np/)
 - **LinkedIn:** [Anuj Thapa](https://www.linkedin.com/in/anujthapa444/)
-- **Email:** [Your Email Address]
-- **Instagram:** [Your Instagram Profile URL]
+- **Email:** [thapapabitraanuj@gmail.com](mailto:thapapabitraanuj@gmail.com)
+- **Instagram:** [@anujthapa444](https://www.instagram.com/anujthapa444/)
+- **Facebook:** [Facebook Profile](https://www.facebook.com/profile.php?id=100075320037820)
 
 ---
 
